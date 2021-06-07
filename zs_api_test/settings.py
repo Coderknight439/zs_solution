@@ -143,3 +143,5 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+ACCESS_TOKEN = 'b0e3de769fdb45316a8eb62cb3743dc5f1204aa9'
