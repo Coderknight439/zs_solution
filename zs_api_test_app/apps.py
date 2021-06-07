@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ZsApiTestConfig(AppConfig):
+class ZsApiTestAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'zs_api_test'
+    name = 'zs_api_test_app'
